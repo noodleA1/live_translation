@@ -1,0 +1,30 @@
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Test files
+tests/
+browser-test/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
