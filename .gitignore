@@ -7,7 +7,7 @@ node_modules/
 
 # Test files
 tests/
-browser-test/
+# browser-test/
 
 # Logs
 logs
